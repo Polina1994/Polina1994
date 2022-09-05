@@ -30,3 +30,9 @@ I live my life guided by the remarkable words of Steve Jobs ([the Stanford comme
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Polina1994&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Polina1994&theme=solarized_dark)
 
+
+## My contacts
+
+email: polinako1994@gmail.com
+tel: 010-2314-7081
+telegram: park_polina
