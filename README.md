@@ -33,6 +33,6 @@ I live my life guided by the remarkable words of Steve Jobs ([the Stanford comme
 
 ## My contacts
 
-email: polinako1994@gmail.com
-tel: 010-2314-7081
-telegram: park_polina
+* email: polinako1994@gmail.com
+* tel: 010-2314-7081
+* telegram: park_polina
